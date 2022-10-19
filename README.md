@@ -38,4 +38,8 @@ Run at root
 2. Activate the plugin through the 'Plugins' menu in WordPress
    See also
 
-Disable generated image sizes plugin for WordPress andriilive/wp-disable-generated-image-size
+### See also
+
+- [andriilive/wp-disable-generated-image-sizes](https://github.com/andriilive/wp-disable-generated-image-sizes)
+- [andriilive/wp-disable-all-updates](https://github.com/andriilive/wp-disable-all-updates)
+- ... other My WP stuff [here](https://github.com/search?q=user%3Aandriilive+repo%3Awp+repo%3Awordpress&type=Repositories&ref=advsearch&l=&l=)
