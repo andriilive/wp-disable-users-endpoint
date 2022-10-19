@@ -1,0 +1,17 @@
+{
+  "name": "andriilive/wp-disable-users-endpoint",
+  "description": "`wp-disable-users-endpoint` plugin completely and for real disables WordPress &amp; plugins image sizes generation with no need for configuration. Supports bedrock and composer install",
+  "keywords": ["wordpress", "plugin", "bedrock", "composer", "wp-api"],
+  "homepage": "https://github.com/andriilive/wp-disable-users-endpoint",
+  "authors": [
+    {
+      "name": "DigitalAndy",
+      "homepage": "https://github.com/andriilive"
+    }
+  ],
+  "license": "Apache-2.0",
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": "^5.6"
+  }
+}
