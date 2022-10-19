@@ -3,7 +3,7 @@
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 [![Contribute with Gitpod](https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/andriilive/wp-disable-users-endpoint)
 
-`wp-disable-users-endpoint` plugin completely and for real disables WordPress &amp; plugins image sizes generation with no need for configuration
+`wp-disable-users-endpoint` plugin completely and for real disables WordPress REST-API &amp;  `/users/` api endpoint
 
 +  No need for configuration
 +  Tested with `Wordpress 6.0.2` & `php 8.0`
